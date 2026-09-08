@@ -1,3 +1,3 @@
 print("ML Model training")
-print ("Model training completed")
+print ("updated NBI")
 print "new branch code"
